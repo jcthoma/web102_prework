@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+Click on the Thumbnail :)
 
 
 [![Watch the video](https://raw.githubusercontent.com/jcthoma/web102_prework/main/CPWebDevThumbnail.png)](https://i.imgur.com/An9mrq8.mp4)
