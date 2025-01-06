@@ -40,7 +40,7 @@ GIF created with Imgur and QuickTime Player
 Not too many challenges, had to refresh some topics like reduce and filter. Embedding the walkthrough in the README also took some time.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jeremy Thomas]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
