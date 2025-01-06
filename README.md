@@ -37,7 +37,7 @@ GIF created with Imgur and QuickTime Player
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
+Not too many challenges, had to refresh some topics like reduce and filter. Embedding the walkthrough in the README also took some time.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
