@@ -25,8 +25,7 @@ Here's a walkthrough of implemented features:
 
 
 
-[![Watch the video](https://raw.githubusercontent.com/jcthoma/web102_prework/main/CPWebDevThumbnail.png)]
-(https://i.imgur.com/An9mrq8.mp4)
+[![Watch the video](https://raw.githubusercontent.com/jcthoma/web102_prework/main/CPWebDevThumbnail.png)](https://i.imgur.com/An9mrq8.mp4)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
