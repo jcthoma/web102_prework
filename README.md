@@ -4,7 +4,7 @@ Submitted by: Jeremy Thomas
 
 Sea Monster Fund is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -30,15 +30,13 @@ Click on the Thumbnail :)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Adobe Express and QuickTime Player
+GIF created with Imgur and QuickTime Player
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
