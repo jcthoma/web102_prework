@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/4AWuGXY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Screen Recording 2025-01-05 at 8 08 01 PM](https://github.com/user-attachments/assets/8211ff33-5141-403f-9b3a-d53f79b0f340)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Express and QuickTime Player
