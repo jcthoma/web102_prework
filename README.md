@@ -25,6 +25,9 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+[![Watch the video]
+(https://raw.githubusercontent.com/jcthoma/web102_prework/main/CPWebDevPrework.gif)]
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Express and QuickTime Player
 <!-- Recommended tools:
