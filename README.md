@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="https://i.imgur.com/X0HLb2N.mp4" controls width="600" alt="Video Walkthrough"> </video>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KrVT2GF" data-context="false" ><a href="//imgur.com/a/KrVT2GF"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Express and QuickTime Player
